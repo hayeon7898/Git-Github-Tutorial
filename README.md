@@ -16,6 +16,7 @@ git clone [link of this repository]
 ```
 아래 부분에 마음껏 글을 적어 보세요
 
+안녕하세요!!
 
 
 위 부분에 마음껏 글을 적어 보세요
